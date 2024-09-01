@@ -24,4 +24,4 @@ It enables users to create an account with their email, categorize and log their
 - PreparedStatement is used to prevent SQL injection
 
 
-<img src="demo-index.png" width="400px"/>
+<img src="demo-index.png"/>
