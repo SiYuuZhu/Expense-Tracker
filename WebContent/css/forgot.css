@@ -1,0 +1,27 @@
+@charset "UTF-8";
+        @import url(https://fonts.googleapis.com/css?family=Noto+Sans+TC|Open+Sans&display=swap);
+        @import url(https://fonts.googleapis.com/css?family=Roboto:300);
+        .root {
+            width: 600px;
+            padding: 8% 0 0;
+            margin: auto;
+        }
+        
+        .content {
+            position: relative;
+            z-index: 1;
+            background: #FFFFFF;
+            max-width: 360px;
+            margin: 0 auto 100px;
+            padding: 45px;
+            text-align: center;
+            box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+            border-radius: 10px;
+        }
+        
+        body {
+            background: linear-gradient(to left, #D8E6E7, #77AAAD);
+            font-family: 'Noto Sans TC', sans-serif;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
