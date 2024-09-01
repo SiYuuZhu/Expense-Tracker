@@ -2,7 +2,7 @@
 
 ## Overview
 
-***Expense-Tracker*** is a web application built with JSP/Servlet.
+***Expense-Tracker*** is a web application built with JSP/Servlet.<br>
 It enables users to create an account with their email, categorize and log their daily expenses, and easily track their spending online.
 
 
